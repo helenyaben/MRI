@@ -1,3 +1,8 @@
+'''
+Interface that allows the user to get the path of a file or a folder by means of navigating through the directories
+H.Yaben
+'''
+
 import os
 from termcolor import colored
 from pathlib import Path
